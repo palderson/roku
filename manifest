@@ -1,0 +1,13 @@
+title=Roku Test
+major_version=1
+minor_version=0
+build_version=13
+mm_icon_focus_hd=pkg:/images/MainMenu_Icon_CenterFocus_HD.png
+mm_icon_side_hd=pkg:/images/MainMenu_Icon_Side_HD.png
+mm_icon_focus_sd=pkg:/images/MainMenu_Icon_CenterFocus_SD.png
+mm_icon_side_sd=pkg:/images/MainMenu_Icon_Side_SD.png
+requires_audiometadata=1
+splash_screen_sd=pkg:/images/Splash_SD43.png
+splash_screen_hd=pkg:/images/Splash_HD.png
+splash_color=#d7e1ec
+splash_min_time=4000
