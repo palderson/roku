@@ -3,15 +3,15 @@
  <category 
 	title="Cat Fails" 
 	description="Cats Failing in a Funny Way." 
-	sd_img="https://raw.githubusercontent.com/palderson/roku/master/SD-category-1.png" 
-	hd_img="https://raw.githubusercontent.com/palderson/roku/master/HD-category-1.png" 
-	feed="https://raw.githubusercontent.com/palderson/roku/master/xml/category-1.xml"
+	sd_img="http://s3.amazonaws.com/rokucattest/images/SD-category-1.png" 
+	hd_img="http://s3.amazonaws.com/rokucattest/images/HD-category-1.png" 
+	feed="https://s3.amazonaws.com/rokucattest/xml/category-1.xml"
  />
  <category 
 	title="Cute Cats" 
 	description="Cats Doing Cute Things." 
-	sd_img="https://raw.githubusercontent.com/palderson/roku/master/SD-category-2.png" 
-	hd_img="https://raw.githubusercontent.com/palderson/roku/master/HD-category-2.png" 
-	feed="https://raw.githubusercontent.com/palderson/roku/master/xml/category-2.xml"
+	sd_img="http://s3.amazonaws.com/rokucattest/images/SD-category-2.png" 
+	hd_img="http://s3.amazonaws.com/rokucattest/images/HD-category-2.png" 
+	feed="https://s3.amazonaws.com/rokucattest/xml/category-2.xml"
  />
 </categories>
