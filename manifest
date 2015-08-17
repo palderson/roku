@@ -1,7 +1,7 @@
 title=Roku Test
 major_version=1
 minor_version=0
-build_version=29
+build_version=33
 mm_icon_focus_hd=pkg:/images/MainMenu_Icon_CenterFocus_HD.png
 mm_icon_side_hd=pkg:/images/MainMenu_Icon_Side_HD.png
 mm_icon_focus_sd=pkg:/images/MainMenu_Icon_CenterFocus_SD.png
