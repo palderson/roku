@@ -12,7 +12,7 @@ Function InitCategoryFeedConnection() As Object
 
     conn = CreateObject("roAssociativeArray")
 
-    conn.UrlPrefix   = "s3.amazonaws.com/rokucattest/xml"
+    conn.UrlPrefix   = "s3-us-west-1.amazonaws.com/rokutestchannel1/xml"
     conn.UrlCategoryFeed = conn.UrlPrefix + "/categories.xml"
 
     conn.Timer = CreateObject("roTimespan")

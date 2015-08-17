@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
- <item sdImg="http://rokuchannelmaker.com/udemy/image-files/Video-SD-1.png" hdImg="http://rokuchannelmaker.com/udemy/image-files/Video-HD-1.png">
-  <title>1st Video</title>
-  <contentType>Talk</contentType>
-  <contentId>1</contentId>
-  <media>
-   <streamFormat>mp4</streamFormat>
-   <streamQuality>SD</streamQuality>
-   <streamUrl>http://archive.org/download/gary_Test/Test.mp4</streamUrl>
-  </media>
-  <media>
-   <streamFormat>mp4</streamFormat>
-   <streamQuality>HD</streamQuality>
-   <streamUrl>http://archive.org/download/gary_Test/Test.mp4</streamUrl>
-  </media>
-  <synopsis>This is the 1st video.</synopsis>
-  <genres>Clip</genres>
- </item>
-  <item sdImg="http://rokuchannelmaker.com/udemy/image-files/Video-SD-2.png" hdImg="http://rokuchannelmaker.com/udemy/image-files/Video-HD-2.png">
-  <title>2nd Video</title>
-  <contentType>Talk</contentType>
-  <contentId>1</contentId>
-  <media>
-   <streamFormat>mp4</streamFormat>
-   <streamQuality>SD</streamQuality>
-   <streamUrl>http://archive.org/download/WavesOnTheBeachCloseUpFreeToUseHDStockVideoFootage/waves.mp4</streamUrl>
-  </media>
-  <media>
-   <streamFormat>mp4</streamFormat>
-   <streamQuality>HD</streamQuality>
-   <streamUrl>http://archive.org/download/WavesOnTheBeachCloseUpFreeToUseHDStockVideoFootage/waves.mp4</streamUrl>
-  </media>
-  <synopsis>This is the 2nd video.</synopsis>
-  <genres>Clip</genres>
- </item>
+   <item sdImg="http://s3-us-west-1.amazonaws.com/rokutestchannel1/images/cuteCatVideoSD.png" hdImg="http://s3-us-west-1.amazonaws.com/rokutestchannel1/images/cuteCatVideoHD.png">
+      <title>Cute Cat</title>
+      <contentType>Talk</contentType>
+      <contentId>1</contentId>
+      <media>
+         <streamFormat>mp4</streamFormat>
+         <streamQuality>SD</streamQuality>
+         <streamUrl>http://archive.org/download/gary_Test/Test.mp4</streamUrl>
+      </media>
+      <media>
+         <streamFormat>mp4</streamFormat>
+         <streamQuality>HD</streamQuality>
+         <streamUrl>http://archive.org/download/gary_Test/Test.mp4</streamUrl>
+      </media>
+      <synopsis>This is the 1st video.</synopsis>
+      <genres>Clip</genres>
+   </item>
+   <item sdImg="http://s3-us-west-1.amazonaws.com/rokutestchannel1/images/cuteCatVideoSD.png" hdImg="http://s3-us-west-1.amazonaws.com/rokutestchannel1/images/cuteCatVideoHD.png">
+      <title>Cute Cat 2</title>
+      <contentType>Talk</contentType>
+      <contentId>1</contentId>
+      <media>
+         <streamFormat>mp4</streamFormat>
+         <streamQuality>SD</streamQuality>
+         <streamUrl>http://archive.org/download/WavesOnTheBeachCloseUpFreeToUseHDStockVideoFootage/waves.mp4</streamUrl>
+      </media>
+      <media>
+         <streamFormat>mp4</streamFormat>
+         <streamQuality>HD</streamQuality>
+         <streamUrl>http://archive.org/download/WavesOnTheBeachCloseUpFreeToUseHDStockVideoFootage/waves.mp4</streamUrl>
+      </media>
+      <synopsis>This is the 2nd video.</synopsis>
+      <genres>Clip</genres>
+   </item>
 </feed>
